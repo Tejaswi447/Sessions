@@ -1,0 +1,4 @@
+addition 4 5
+subtraction 3 2
+multiplication 9 3
+division 12 3 euhduw
